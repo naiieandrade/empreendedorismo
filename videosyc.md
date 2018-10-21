@@ -33,24 +33,26 @@
 
 ## WEEK 6
 
-A Conversation with Elizabeth Iorns    
-Running Your Startup    
+[Running Your Startup](https://www.youtube.com/watch?v=NprBQi0cSHU)    
+[A Conversation with Elizabeth Iorns: Advice for Biotech Founders](https://www.youtube.com/watch?v=e_pN0P0zD8g)    
 
 ## WEEK 7
 
-Startup Technology - CTO Advice    
-Fundraising Fundamentals     
+[Startup Technology - Technical Founder Advice](https://www.youtube.com/watch?v=tSW-GePDwn4)    
+[Fundraising Fundamentals](https://www.youtube.com/watch?v=gcevHkNGrWQ)     
+[A Conversation on Hard Tech with Eric Migicovsky](https://www.youtube.com/watch?v=7atClUTkR3A)    
 
 ## WEEK 8
 
-All You Need to Know About Safes, Notes, and Equity      
-Investor Meetings       
+[Understanding SAFEs and Priced Equity Rounds](https://www.youtube.com/watch?v=Dk6JNTDec9I)      
+[How to Get Meetings with Investors and Raise Money](https://www.youtube.com/watch?v=Jzz4AEIddzY)       
+[A Conversation with Elad Gil](https://www.youtube.com/watch?v=t6fYl5f9iis)     
 
 ## WEEK 9
 
 The Path to $100B      
-How to Talk to Users      
+After PMF: people, customers, sales      
+Managing Your Psychology as a Founder    
 
-## WEEK 10
 
-Managing Your Psychology as a Founder
+
