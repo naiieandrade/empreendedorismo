@@ -50,9 +50,9 @@
 
 ## WEEK 9
 
-The Path to $100B      
-After PMF: people, customers, sales      
-Managing Your Psychology as a Founder    
+[The Path to $100B](https://www.youtube.com/watch?v=Ir3hGtg0Wog)      
+[After PMF: people, customers, sales](https://www.youtube.com/watch?time_continue=1&v=S2YCcdb1rG4)      
+[How to win](https://www.youtube.com/watch?v=LH1bewTg-P4)    
 
 
 
